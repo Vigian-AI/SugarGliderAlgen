@@ -2,34 +2,34 @@ nama_makanan,jenis,protein,serat,kalsium,fosfor,gula
 PROTEIN,,,,,,
 Jangkrik,protein,24,1,100,400,0
 Ulat Hongkong,protein,30,1.6,200,500,0
-Ayam Rebus,protein,30,0,60,400,0
-Telur Rebus,protein,25,0,200,900,0
-HPW Diet (Bubur),protein,33.33,10,1333.3,666.7,10
-Belalang,protein,20,1.5,80,350,0
-Ikan Salmon (Matang),protein,22,0,15,450,0
+Ayam Rebus,protein,30,0,15,200,0
+Telur Rebus,protein,13,0,56,198,0
+HPW Diet (Bubur),protein,20,3,250,200,8
+Belalang,protein,22,1.5,120,350,0
+Ikan Salmon (Matang),protein,25,0,9,200,0
 BUAH,,,,,,
-Apel,buah,1,8,100,200,25
-Pepaya,buah,1.6,9,160,240,20
-Melon,buah,1.2,4,120,180,15
-Pir,buah,1,8.4,100,220,25
-Anggur (Batasi),buah,1.4,6,80,160,30
-Pisang,buah,2,5,200,400,40
-Stroberi,buah,0.8,6,20,25,5
-Jeruk (Batasi),buah,0.9,4,40,15,9
-Mangga,buah,0.6,4,10,10,14
-Kiwi,buah,1.1,6,34,34,9
+Apel,buah,0.3,2.4,6,11,10
+Pepaya,buah,0.5,1.8,20,10,8
+Melon,buah,0.8,0.8,6,15,9
+Pir,buah,0.4,3.1,9,12,10
+Anggur (Batasi),buah,0.6,0.9,10,20,15
+Pisang,buah,1.1,2.6,5,22,12
+Stroberi,buah,0.8,2,16,24,4
+Jeruk (Batasi),buah,0.9,2.4,40,14,9
+Mangga,buah,0.8,1.6,10,14,14
+Kiwi,buah,1.1,3,34,34,9
 SAYUR,,,,,,
-Wortel,sayur,2,12,300,200,12
-Buncis,sayur,5,10,400,240,6
-Jagung,sayur,7,4,40,300,10
-Selada (Batasi),sayur,1.6,10,300,120,2
-Bayam,sayur,4,14,500,200,4
-Timun,sayur,1,6,160,100,2
-Brokoli,sayur,2.8,10,47,66,1.7
-Kubis,sayur,1.3,5,40,26,3.2
-Ubi Jalar (Matang),sayur,1.6,6,30,47,4.2
-Tomat (Batasi),sayur,0.9,2,10,24,2.6
+Wortel,sayur,0.9,2.8,33,35,5
+Buncis,sayur,1.8,3.7,37,42,3
+Jagung,sayur,3.2,2.7,2,108,6
+Selada (Batasi),sayur,1.4,1.3,36,29,1
+Bayam,sayur,2.9,2.1,99,49,0.4
+Timun,sayur,0.7,0.5,16,24,1.7
+Brokoli,sayur,2.8,2.6,47,66,1.7
+Kubis,sayur,1.3,2.5,40,26,3.2
+Ubi Jalar (Matang),sayur,1.6,3,30,47,4.2
+Tomat (Batasi),sayur,0.9,1.2,10,24,2.6
 SUPLEMEN,,,,,,
-Kalsium Bubuk,supp,0,0,100000,0,0
-Multivitamin Bubuk,supp,5,2,5000,2500,2
+Kalsium Bubuk,supp,0,0,10000,0,0
+Multivitamin Bubuk,supp,5,2,500,200,2
 Bee Pollen,supp,18,5,100,400,30
